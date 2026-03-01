@@ -1,0 +1,204 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.omoda.overlaylauncher"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="29"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+11-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:4:5-81
+11-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:4:22-78
+12    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+12-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:5:5-79
+12-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:6:5-81
+13-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:6:22-78
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:7:5-80
+14-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:7:22-77
+15    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
+15-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:8:5-75
+15-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:8:22-72
+16    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+16-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:9:5-78
+16-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:9:22-75
+17    <uses-permission android:name="android.car.permission.CAR_INFO" />
+17-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:10:5-71
+17-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:10:22-68
+18    <uses-permission android:name="android.car.permission.CAR_SPEED" />
+18-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:11:5-72
+18-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:11:22-69
+19    <uses-permission android:name="android.car.permission.CAR_ENERGY" />
+19-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:12:5-73
+19-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:12:22-70
+20
+21    <queries>
+21-->[androidx.car.app:app:1.4.0] /home/cemal/.gradle/caches/transforms-3/712e0b6ca0b601e73d526e32fa7523f4/transformed/jetified-app-1.4.0/AndroidManifest.xml:23:5-28:15
+22        <provider
+22-->[androidx.car.app:app:1.4.0] /home/cemal/.gradle/caches/transforms-3/712e0b6ca0b601e73d526e32fa7523f4/transformed/jetified-app-1.4.0/AndroidManifest.xml:24:9-27:43
+23            android:name="androidx.car.app.connection.provider"
+23-->[androidx.car.app:app:1.4.0] /home/cemal/.gradle/caches/transforms-3/712e0b6ca0b601e73d526e32fa7523f4/transformed/jetified-app-1.4.0/AndroidManifest.xml:25:13-64
+24            android:authorities="androidx.car.app.connection" />
+24-->[androidx.car.app:app:1.4.0] /home/cemal/.gradle/caches/transforms-3/712e0b6ca0b601e73d526e32fa7523f4/transformed/jetified-app-1.4.0/AndroidManifest.xml:26:13-62
+25    </queries>
+26
+27    <permission
+27-->[androidx.core:core:1.12.0] /home/cemal/.gradle/caches/transforms-3/fce26c3d6c745ba7ad123c98467fa52d/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+28        android:name="com.omoda.overlaylauncher.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+28-->[androidx.core:core:1.12.0] /home/cemal/.gradle/caches/transforms-3/fce26c3d6c745ba7ad123c98467fa52d/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+29        android:protectionLevel="signature" />
+29-->[androidx.core:core:1.12.0] /home/cemal/.gradle/caches/transforms-3/fce26c3d6c745ba7ad123c98467fa52d/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+30
+31    <uses-permission android:name="com.omoda.overlaylauncher.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+31-->[androidx.core:core:1.12.0] /home/cemal/.gradle/caches/transforms-3/fce26c3d6c745ba7ad123c98467fa52d/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+31-->[androidx.core:core:1.12.0] /home/cemal/.gradle/caches/transforms-3/fce26c3d6c745ba7ad123c98467fa52d/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+32
+33    <application
+33-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:14:5-43:19
+34        android:name="com.omoda.overlaylauncher.OmodaApplication"
+34-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:15:9-41
+35        android:allowBackup="true"
+35-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:16:9-35
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.12.0] /home/cemal/.gradle/caches/transforms-3/fce26c3d6c745ba7ad123c98467fa52d/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+37        android:extractNativeLibs="false"
+38        android:label="Omoda Launcher"
+38-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:17:9-39
+39        android:supportsRtl="true"
+39-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:18:9-35
+40        android:theme="@android:style/Theme.DeviceDefault" >
+40-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:19:9-59
+41        <activity
+41-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:21:9-30:20
+42            android:name="com.omoda.overlaylauncher.MainActivity"
+42-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:22:13-41
+43            android:exported="true" >
+43-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:23:13-36
+44            <intent-filter>
+44-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:24:13-29:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:25:17-69
+45-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:25:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:26:17-77
+47-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:26:27-74
+48                <category android:name="android.intent.category.HOME" />
+48-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:27:17-73
+48-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:27:27-70
+49                <category android:name="android.intent.category.DEFAULT" />
+49-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:28:17-76
+49-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:28:27-73
+50            </intent-filter>
+51        </activity>
+52
+53        <receiver
+53-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:32:9-41:20
+54            android:name="com.omoda.overlaylauncher.receiver.BootReceiver"
+54-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:33:13-50
+55            android:enabled="true"
+55-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:34:13-35
+56            android:exported="true"
+56-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:35:13-36
+57            android:permission="android.permission.RECEIVE_BOOT_COMPLETED" >
+57-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:36:13-75
+58            <intent-filter android:priority="999" >
+58-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:37:13-40:29
+58-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:37:28-50
+59                <action android:name="android.intent.action.BOOT_COMPLETED" />
+59-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:38:17-79
+59-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:38:25-76
+60                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+60-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:39:17-82
+60-->/home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/src/main/AndroidManifest.xml:39:25-79
+61            </intent-filter>
+62        </receiver>
+63
+64        <activity
+64-->[androidx.car.app:app:1.4.0] /home/cemal/.gradle/caches/transforms-3/712e0b6ca0b601e73d526e32fa7523f4/transformed/jetified-app-1.4.0/AndroidManifest.xml:31:9-34:75
+65            android:name="androidx.car.app.CarAppPermissionActivity"
+65-->[androidx.car.app:app:1.4.0] /home/cemal/.gradle/caches/transforms-3/712e0b6ca0b601e73d526e32fa7523f4/transformed/jetified-app-1.4.0/AndroidManifest.xml:32:13-69
+66            android:exported="false"
+66-->[androidx.car.app:app:1.4.0] /home/cemal/.gradle/caches/transforms-3/712e0b6ca0b601e73d526e32fa7523f4/transformed/jetified-app-1.4.0/AndroidManifest.xml:33:13-37
+67            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+67-->[androidx.car.app:app:1.4.0] /home/cemal/.gradle/caches/transforms-3/712e0b6ca0b601e73d526e32fa7523f4/transformed/jetified-app-1.4.0/AndroidManifest.xml:34:13-72
+68
+69        <receiver
+69-->[androidx.car.app:app:1.4.0] /home/cemal/.gradle/caches/transforms-3/712e0b6ca0b601e73d526e32fa7523f4/transformed/jetified-app-1.4.0/AndroidManifest.xml:36:9-38:40
+70            android:name="androidx.car.app.notification.CarAppNotificationBroadcastReceiver"
+70-->[androidx.car.app:app:1.4.0] /home/cemal/.gradle/caches/transforms-3/712e0b6ca0b601e73d526e32fa7523f4/transformed/jetified-app-1.4.0/AndroidManifest.xml:37:13-93
+71            android:exported="false" />
+71-->[androidx.car.app:app:1.4.0] /home/cemal/.gradle/caches/transforms-3/712e0b6ca0b601e73d526e32fa7523f4/transformed/jetified-app-1.4.0/AndroidManifest.xml:38:13-37
+72
+73        <provider
+73-->[androidx.emoji2:emoji2:1.3.0] /home/cemal/.gradle/caches/transforms-3/acc54f05364f9f47a13b80f276625f71/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+74            android:name="androidx.startup.InitializationProvider"
+74-->[androidx.emoji2:emoji2:1.3.0] /home/cemal/.gradle/caches/transforms-3/acc54f05364f9f47a13b80f276625f71/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:25:13-67
+75            android:authorities="com.omoda.overlaylauncher.androidx-startup"
+75-->[androidx.emoji2:emoji2:1.3.0] /home/cemal/.gradle/caches/transforms-3/acc54f05364f9f47a13b80f276625f71/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:26:13-68
+76            android:exported="false" >
+76-->[androidx.emoji2:emoji2:1.3.0] /home/cemal/.gradle/caches/transforms-3/acc54f05364f9f47a13b80f276625f71/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:27:13-37
+77            <meta-data
+77-->[androidx.emoji2:emoji2:1.3.0] /home/cemal/.gradle/caches/transforms-3/acc54f05364f9f47a13b80f276625f71/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+78                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+78-->[androidx.emoji2:emoji2:1.3.0] /home/cemal/.gradle/caches/transforms-3/acc54f05364f9f47a13b80f276625f71/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:30:17-75
+79                android:value="androidx.startup" />
+79-->[androidx.emoji2:emoji2:1.3.0] /home/cemal/.gradle/caches/transforms-3/acc54f05364f9f47a13b80f276625f71/transformed/jetified-emoji2-1.3.0/AndroidManifest.xml:31:17-49
+80            <meta-data
+80-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/cemal/.gradle/caches/transforms-3/5367f84352a6a94d4fb687b4935f049c/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+81                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+81-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/cemal/.gradle/caches/transforms-3/5367f84352a6a94d4fb687b4935f049c/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+82                android:value="androidx.startup" />
+82-->[androidx.lifecycle:lifecycle-process:2.6.2] /home/cemal/.gradle/caches/transforms-3/5367f84352a6a94d4fb687b4935f049c/transformed/jetified-lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+83            <meta-data
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/cemal/.gradle/caches/transforms-3/0fdcc73916ef5d9b78e56432b3390427/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+84                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+84-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/cemal/.gradle/caches/transforms-3/0fdcc73916ef5d9b78e56432b3390427/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+85                android:value="androidx.startup" />
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/cemal/.gradle/caches/transforms-3/0fdcc73916ef5d9b78e56432b3390427/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+86        </provider>
+87
+88        <receiver
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/cemal/.gradle/caches/transforms-3/0fdcc73916ef5d9b78e56432b3390427/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+89            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/cemal/.gradle/caches/transforms-3/0fdcc73916ef5d9b78e56432b3390427/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+90            android:directBootAware="false"
+90-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/cemal/.gradle/caches/transforms-3/0fdcc73916ef5d9b78e56432b3390427/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+91            android:enabled="true"
+91-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/cemal/.gradle/caches/transforms-3/0fdcc73916ef5d9b78e56432b3390427/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+92            android:exported="true"
+92-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/cemal/.gradle/caches/transforms-3/0fdcc73916ef5d9b78e56432b3390427/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+93            android:permission="android.permission.DUMP" >
+93-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/cemal/.gradle/caches/transforms-3/0fdcc73916ef5d9b78e56432b3390427/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+94            <intent-filter>
+94-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/cemal/.gradle/caches/transforms-3/0fdcc73916ef5d9b78e56432b3390427/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+95                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+95-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/cemal/.gradle/caches/transforms-3/0fdcc73916ef5d9b78e56432b3390427/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+95-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/cemal/.gradle/caches/transforms-3/0fdcc73916ef5d9b78e56432b3390427/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+96            </intent-filter>
+97            <intent-filter>
+97-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/cemal/.gradle/caches/transforms-3/0fdcc73916ef5d9b78e56432b3390427/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+98                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/cemal/.gradle/caches/transforms-3/0fdcc73916ef5d9b78e56432b3390427/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/cemal/.gradle/caches/transforms-3/0fdcc73916ef5d9b78e56432b3390427/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+99            </intent-filter>
+100            <intent-filter>
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/cemal/.gradle/caches/transforms-3/0fdcc73916ef5d9b78e56432b3390427/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+101                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/cemal/.gradle/caches/transforms-3/0fdcc73916ef5d9b78e56432b3390427/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+101-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/cemal/.gradle/caches/transforms-3/0fdcc73916ef5d9b78e56432b3390427/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+102            </intent-filter>
+103            <intent-filter>
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/cemal/.gradle/caches/transforms-3/0fdcc73916ef5d9b78e56432b3390427/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+104                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/cemal/.gradle/caches/transforms-3/0fdcc73916ef5d9b78e56432b3390427/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] /home/cemal/.gradle/caches/transforms-3/0fdcc73916ef5d9b78e56432b3390427/transformed/jetified-profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+105            </intent-filter>
+106        </receiver>
+107    </application>
+108
+109</manifest>

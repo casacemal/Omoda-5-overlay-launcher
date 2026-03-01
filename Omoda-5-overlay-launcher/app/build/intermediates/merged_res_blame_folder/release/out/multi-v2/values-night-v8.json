@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.omoda.overlaylauncher.app-mergeReleaseResources-51:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/home/cemal/.gradle/caches/transforms-3/712e0b6ca0b601e73d526e32fa7523f4/transformed/jetified-app-1.4.0/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,104,154,202",
+                        "endColumns": "48,49,47,50",
+                        "endOffsets": "99,149,197,248"
+                    }
+                }
+            ]
+        }
+    ]
+}

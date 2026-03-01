@@ -1,0 +1,35 @@
+com.omoda.overlaylauncher.test.app-jetified-ui-test-1.4.0-0 /home/cemal/.gradle/caches/transforms-3/043c7d033e1504090034f39bc63c3cf8/transformed/jetified-ui-test-1.4.0/res
+com.omoda.overlaylauncher.test.app-jetified-profileinstaller-1.3.0-1 /home/cemal/.gradle/caches/transforms-3/0fdcc73916ef5d9b78e56432b3390427/transformed/jetified-profileinstaller-1.3.0/res
+com.omoda.overlaylauncher.test.app-lifecycle-livedata-core-2.6.2-2 /home/cemal/.gradle/caches/transforms-3/10a95b2040a88052a06d2674705e3105/transformed/lifecycle-livedata-core-2.6.2/res
+com.omoda.overlaylauncher.test.app-jetified-activity-compose-1.8.0-3 /home/cemal/.gradle/caches/transforms-3/176d980e0dd04610cbd45cb50fab4e00/transformed/jetified-activity-compose-1.8.0/res
+com.omoda.overlaylauncher.test.app-lifecycle-viewmodel-2.6.2-4 /home/cemal/.gradle/caches/transforms-3/177c9e83c45c18c6d2c3d7b12d799175/transformed/lifecycle-viewmodel-2.6.2/res
+com.omoda.overlaylauncher.test.app-jetified-savedstate-ktx-1.2.1-5 /home/cemal/.gradle/caches/transforms-3/2ed1891d450265a33033c35709131118/transformed/jetified-savedstate-ktx-1.2.1/res
+com.omoda.overlaylauncher.test.app-jetified-runtime-1.4.0-6 /home/cemal/.gradle/caches/transforms-3/318b9b86296c239d1bbb9c311b30761a/transformed/jetified-runtime-1.4.0/res
+com.omoda.overlaylauncher.test.app-jetified-lifecycle-viewmodel-ktx-2.6.2-7 /home/cemal/.gradle/caches/transforms-3/36702f303bd06ce95b080db69a58dcdd/transformed/jetified-lifecycle-viewmodel-ktx-2.6.2/res
+com.omoda.overlaylauncher.test.app-jetified-core-ktx-1.12.0-8 /home/cemal/.gradle/caches/transforms-3/40760dde5d821262a14cfd308d9ce31b/transformed/jetified-core-ktx-1.12.0/res
+com.omoda.overlaylauncher.test.app-jetified-ui-util-1.4.0-9 /home/cemal/.gradle/caches/transforms-3/51e53c5c56f88958e3edfde570605ac5/transformed/jetified-ui-util-1.4.0/res
+com.omoda.overlaylauncher.test.app-jetified-ui-unit-1.4.0-10 /home/cemal/.gradle/caches/transforms-3/522cd16680170b8f37b391c0ba9d76df/transformed/jetified-ui-unit-1.4.0/res
+com.omoda.overlaylauncher.test.app-jetified-lifecycle-process-2.6.2-11 /home/cemal/.gradle/caches/transforms-3/5367f84352a6a94d4fb687b4935f049c/transformed/jetified-lifecycle-process-2.6.2/res
+com.omoda.overlaylauncher.test.app-jetified-ui-geometry-1.4.0-12 /home/cemal/.gradle/caches/transforms-3/5ebb1ed40841390d484326bc477bb785/transformed/jetified-ui-geometry-1.4.0/res
+com.omoda.overlaylauncher.test.app-jetified-savedstate-1.2.1-13 /home/cemal/.gradle/caches/transforms-3/62e033a877afd9ba1eb46e361d15b10f/transformed/jetified-savedstate-1.2.1/res
+com.omoda.overlaylauncher.test.app-jetified-ui-graphics-1.4.0-14 /home/cemal/.gradle/caches/transforms-3/79a7a21b027416effbde1d66470b1d13/transformed/jetified-ui-graphics-1.4.0/res
+com.omoda.overlaylauncher.test.app-jetified-startup-runtime-1.1.1-15 /home/cemal/.gradle/caches/transforms-3/7bf80dd99b40bce67d035518b3e6da60/transformed/jetified-startup-runtime-1.1.1/res
+com.omoda.overlaylauncher.test.app-jetified-lifecycle-viewmodel-savedstate-2.6.2-16 /home/cemal/.gradle/caches/transforms-3/7e20f20ae4ef5ac54aeba30cc50377c7/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/res
+com.omoda.overlaylauncher.test.app-jetified-activity-ktx-1.8.0-17 /home/cemal/.gradle/caches/transforms-3/8ef2d09802307314a902e232331fc2c9/transformed/jetified-activity-ktx-1.8.0/res
+com.omoda.overlaylauncher.test.app-lifecycle-runtime-2.6.2-18 /home/cemal/.gradle/caches/transforms-3/a35531422ca8398e6ccf1bff609052a9/transformed/lifecycle-runtime-2.6.2/res
+com.omoda.overlaylauncher.test.app-jetified-runtime-saveable-1.4.0-19 /home/cemal/.gradle/caches/transforms-3/a6ce8958c12dab06e7dbc52892811103/transformed/jetified-runtime-saveable-1.4.0/res
+com.omoda.overlaylauncher.test.app-jetified-emoji2-1.3.0-20 /home/cemal/.gradle/caches/transforms-3/acc54f05364f9f47a13b80f276625f71/transformed/jetified-emoji2-1.3.0/res
+com.omoda.overlaylauncher.test.app-jetified-ui-text-1.4.0-21 /home/cemal/.gradle/caches/transforms-3/b345b1bd3c6c7218c252e6b9ced9184c/transformed/jetified-ui-text-1.4.0/res
+com.omoda.overlaylauncher.test.app-jetified-ui-test-junit4-1.4.0-22 /home/cemal/.gradle/caches/transforms-3/b3a24d5f41ab60fe67c4c0b2ff5ea137/transformed/jetified-ui-test-junit4-1.4.0/res
+com.omoda.overlaylauncher.test.app-jetified-ui-1.4.0-23 /home/cemal/.gradle/caches/transforms-3/b588ea16195086ed95de7d848faee517/transformed/jetified-ui-1.4.0/res
+com.omoda.overlaylauncher.test.app-jetified-core-1.5.0-24 /home/cemal/.gradle/caches/transforms-3/c350a963a7c41967c9d3517f9a2ab56c/transformed/jetified-core-1.5.0/res
+com.omoda.overlaylauncher.test.app-jetified-customview-poolingcontainer-1.0.0-25 /home/cemal/.gradle/caches/transforms-3/c36d222f128e9fa1d7c5682d5ebc3ab9/transformed/jetified-customview-poolingcontainer-1.0.0/res
+com.omoda.overlaylauncher.test.app-jetified-activity-1.8.0-26 /home/cemal/.gradle/caches/transforms-3/c47e66c6f75f7a499ea58ee5b15a0ae5/transformed/jetified-activity-1.8.0/res
+com.omoda.overlaylauncher.test.app-core-runtime-2.2.0-27 /home/cemal/.gradle/caches/transforms-3/d8b0f45621196276e5a2eacfae22dcc3/transformed/core-runtime-2.2.0/res
+com.omoda.overlaylauncher.test.app-jetified-annotation-experimental-1.3.1-28 /home/cemal/.gradle/caches/transforms-3/db0b9bc24b84d6b06efd87a7f35867a6/transformed/jetified-annotation-experimental-1.3.1/res
+com.omoda.overlaylauncher.test.app-jetified-lifecycle-runtime-ktx-2.6.2-29 /home/cemal/.gradle/caches/transforms-3/e7fe7d4a154ab1533b63e86e015daef4/transformed/jetified-lifecycle-runtime-ktx-2.6.2/res
+com.omoda.overlaylauncher.test.app-core-1.12.0-30 /home/cemal/.gradle/caches/transforms-3/fce26c3d6c745ba7ad123c98467fa52d/transformed/core-1.12.0/res
+com.omoda.overlaylauncher.test.app-androidTest-31 /home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/build/generated/res/resValues/androidTest/debug
+com.omoda.overlaylauncher.test.app-mergeDebugAndroidTestResources-32 /home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.omoda.overlaylauncher.test.app-mergeDebugAndroidTestResources-33 /home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.omoda.overlaylauncher.test.app-merged_res-34 /home/cemal/Belgeler/codex launcher/Omoda-5-overlay-launcher/app/build/intermediates/merged_res/debugAndroidTest

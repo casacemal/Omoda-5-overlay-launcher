@@ -1,0 +1,1023 @@
+false
+02-28 01:45:30.401  3094  3094 D Input.HardKeyReceiver: down:false,longPress:false,keyCode:294
+02-28 01:45:30.401  3094  3094 W SYSUI.HardKeyHandler: receive key code : 294
+02-28 01:45:30.401  3492  3492 D CarHardkeyManager: isLongPress:false
+02-28 01:45:30.401  3492  3492 D CarHardkeyManager: mediaValue:-1
+02-28 01:45:30.401  3831  3831 D MEDIA.HardKeyBusiness: onHardKey:Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:45:30.401  3831  3831 D MEDIA.HardKeyBusiness: keyCode:294 keyDown:false longPress:false
+02-28 01:45:31.897  2677  2922 I WindowManager: interceptKeyBeforeDispatching: report hardkey event keyCode 289down true
+02-28 01:45:31.897  2677  2788 D WindowManager: reportHardKeyEvent:  keycode=289 down=true longpress=false
+02-28 01:45:31.898  3285  3285 D CarPlayReceiver: onReceive: com.saic.keyevent.hardkey.report
+02-28 01:45:31.898  3285  3285 D CarPlayReceiver: onReceive: intent.toString    Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:45:31.898  3094  3094 D Input.HardKeyReceiver: down:true,longPress:false,keyCode:289
+02-28 01:45:31.898  3492  3492 D CarHardkeyManager: hardkey keycode:289
+02-28 01:45:31.898  3492  3492 D CarHardkeyManager: press_down
+02-28 01:45:31.898  3492  3492 D CarHardkeyManager: isPress:true
+02-28 01:45:31.898  3492  3492 D CarHardkeyManager: isLongPress:false
+02-28 01:45:31.899  3831  3831 D MEDIA.HardKeyBusiness: onHardKey:Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:45:31.899  3831  3831 D MEDIA.HardKeyBusiness: keyCode:289 keyDown:true longPress:false
+02-28 01:45:31.900  3492  3492 D CarHardkeyManager: mediaValue:-1
+02-28 01:45:32.098  2677  2922 I WindowManager: interceptKeyBeforeDispatching: report hardkey event keyCode 289down false
+02-28 01:45:32.098  2677  2788 D WindowManager: reportHardKeyEvent:  keycode=289 down=false longpress=false
+02-28 01:45:32.099  3285  3285 D CarPlayReceiver: onReceive: com.saic.keyevent.hardkey.report
+02-28 01:45:32.099  3285  3285 D CarPlayReceiver: onReceive: intent.toString    Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:45:32.099  3094  3094 D Input.HardKeyReceiver: down:false,longPress:false,keyCode:289
+02-28 01:45:32.099  3094  3094 W SYSUI.HardKeyHandler: receive key code : 289
+02-28 01:45:32.100  3492  3492 D CarHardkeyManager: hardkey keycode:289
+02-28 01:45:32.100  3492  3492 D CarHardkeyManager: shortPress_up
+02-28 01:45:32.100  3492  3492 D CarHardkeyManager: isPress: false
+02-28 01:45:32.100  3492  3492 D CarHardkeyManager: isLongPress:false
+02-28 01:45:32.100  3831  3831 D MEDIA.HardKeyBusiness: onHardKey:Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:45:32.100  3831  3831 D MEDIA.HardKeyBusiness: keyCode:289 keyDown:false longPress:false
+02-28 01:45:32.101  3492  3492 D CarHardkeyManager: mediaValue:-1
+02-28 01:45:32.111  3831  3831 D MEDIA.HardKeyBusiness: onHardKeySrc
+02-28 01:45:32.111  3831  3831 D MEDIA.HardKeyBusiness: onHardKeySrc currentSource:0
+02-28 01:45:32.111  3831  3831 D MEDIA.HardKeyBusiness: changeSource:Radio
+02-28 01:45:32.192  3831  3831 D MEDIA.HardKeyBusiness: checkChangeSourceView source:2
+02-28 01:45:32.210  3831  3831 D MEDIA.HardKeyBusiness: checkChangeSourceView ComponentName:ComponentInfo{in.krosbits.musicolet/in.krosbits.musicolet.MusicActivity}
+02-28 01:45:32.210  3831  3831 D MEDIA.HardKeyBusiness: checkChangeSourceView mediaActivity:null
+02-28 01:45:34.097  2677  2922 I WindowManager: interceptKeyBeforeDispatching: report hardkey event keyCode 290down true
+02-28 01:45:34.097  2677  2788 D WindowManager: reportHardKeyEvent:  keycode=290 down=true longpress=false
+02-28 01:45:34.098  3285  3285 D CarPlayReceiver: onReceive: com.saic.keyevent.hardkey.report
+02-28 01:45:34.098  3285  3285 D CarPlayReceiver: onReceive: intent.toString    Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:45:34.099  3430  3554 D CarHardwareHandler: receive hardkey event: keycode:290, isDown:true, isLongPress:false
+02-28 01:45:34.100  3492  3492 D CarHardkeyManager: hardkey keycode:290
+02-28 01:45:34.100  3492  3492 D CarHardkeyManager: press_down
+02-28 01:45:34.100  3492  3492 D CarHardkeyManager: isPress:true
+02-28 01:45:34.100  3492  3492 D CarHardkeyManager: isLongPress:false
+02-28 01:45:34.100  3492  3492 D CarHardkeyManager: keycodeHandle: CP is not connected
+02-28 01:45:34.100  3492  3492 D CarHardkeyManager: mediaValue:-1
+02-28 01:45:34.101  3831  3831 D MEDIA.HardKeyBusiness: onHardKey:Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:45:34.101  3831  3831 D MEDIA.HardKeyBusiness: keyCode:290 keyDown:true longPress:false
+02-28 01:45:34.101  3094  3094 D Input.HardKeyReceiver: down:true,longPress:false,keyCode:290
+02-28 01:45:34.352  2677  2922 I WindowManager: interceptKeyBeforeDispatching: report hardkey event keyCode 290down false
+02-28 01:45:34.352  2677  2788 D WindowManager: reportHardKeyEvent:  keycode=290 down=false longpress=false
+02-28 01:45:34.353  3285  3285 D CarPlayReceiver: onReceive: com.saic.keyevent.hardkey.report
+02-28 01:45:34.353  3285  3285 D CarPlayReceiver: onReceive: intent.toString    Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:45:34.359  3492  3492 D CarHardkeyManager: hardkey keycode:290
+02-28 01:45:34.359  3492  3492 D CarHardkeyManager: shortPress_up
+02-28 01:45:34.359  3492  3492 D CarHardkeyManager: isPress: false
+02-28 01:45:34.359  3094  3094 D Input.HardKeyReceiver: down:false,longPress:false,keyCode:290
+02-28 01:45:34.359  3492  3492 D CarHardkeyManager: isLongPress:false
+02-28 01:45:34.359  3492  3492 D CarHardkeyManager: keycodeHandle: CP is not connected
+02-28 01:45:34.359  3094  3094 W SYSUI.HardKeyHandler: receive key code : 290
+02-28 01:45:34.359  3492  3492 D CarHardkeyManager: mediaValue:-1
+02-28 01:45:34.359  3430  3554 D CarHardwareHandler: receive hardkey event: keycode:290, isDown:false, isLongPress:false
+02-28 01:45:34.359  3831  3831 D MEDIA.HardKeyBusiness: onHardKey:Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:45:34.360  3831  3831 D MEDIA.HardKeyBusiness: keyCode:290 keyDown:false longPress:false
+02-28 01:45:36.103  2677  2922 I WindowManager: interceptKeyBeforeDispatching: report hardkey event keyCode 293down true
+02-28 01:45:36.103  2677  2788 D WindowManager: reportHardKeyEvent:  keycode=293 down=true longpress=false
+02-28 01:45:36.104  3285  3285 D CarPlayReceiver: onReceive: com.saic.keyevent.hardkey.report
+02-28 01:45:36.104  3285  3285 D CarPlayReceiver: onReceive: intent.toString    Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:45:36.104  3094  3094 D Input.HardKeyReceiver: down:true,longPress:false,keyCode:293
+02-28 01:45:36.104  3831  3831 D MEDIA.HardKeyBusiness: onHardKey:Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:45:36.105  3831  3831 D MEDIA.HardKeyBusiness: keyCode:293 keyDown:true longPress:false
+02-28 01:45:36.105  3492  3492 D CarHardkeyManager: hardkey keycode:293
+02-28 01:45:36.105  3492  3492 D CarHardkeyManager: press_down
+02-28 01:45:36.105  3492  3492 D CarHardkeyManager: isPress:true
+02-28 01:45:36.105  3492  3492 D CarHardkeyManager: isLongPress:false
+02-28 01:45:36.105  3492  3492 D CarHardkeyManager: keycodeHandle: getSiriStatus ===> false
+02-28 01:45:36.105  3492  3492 D CarHardkeyManager: mediaValue:-1
+02-28 01:45:36.351  2677  2922 I WindowManager: interceptKeyBeforeDispatching: report hardkey event keyCode 293down false
+02-28 01:45:36.351  2677  2788 D WindowManager: reportHardKeyEvent:  keycode=293 down=false longpress=false
+02-28 01:45:36.352  3285  3285 D CarPlayReceiver: onReceive: com.saic.keyevent.hardkey.report
+02-28 01:45:36.352  3285  3285 D CarPlayReceiver: onReceive: intent.toString    Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:45:36.352  3094  3094 D Input.HardKeyReceiver: down:false,longPress:false,keyCode:293
+02-28 01:45:36.353  3831  3831 D MEDIA.HardKeyBusiness: onHardKey:Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:45:36.353  3831  3831 D MEDIA.HardKeyBusiness: keyCode:293 keyDown:false longPress:false
+02-28 01:45:36.353  3492  3492 D CarHardkeyManager: hardkey keycode:293
+02-28 01:45:36.353  3492  3492 D CarHardkeyManager: shortPress_up
+02-28 01:45:36.353  3492  3492 D CarHardkeyManager: isPress: false
+02-28 01:45:36.353  3492  3492 D CarHardkeyManager: isLongPress:false
+02-28 01:45:36.353  3492  3492 D CarHardkeyManager: keycodeHandle: getSiriStatus ===> false
+02-28 01:45:36.353  3492  3492 D CarHardkeyManager: mediaValue:-1
+02-28 01:45:36.353  3492  3492 D CarHardkeyManager: telKey:8
+02-28 01:45:36.353  3492  3492 E CarPlayCommClient: sendHardKey:keyType8
+02-28 01:45:36.353  2539  2539 I CarPlayCommService: sendHardKey is called.
+02-28 01:45:36.353  2539  2539 I CarPlayCommProtocal_CPP: CarPlayCommProtocal::sendHardKey is called.
+02-28 01:45:36.353  3492  3492 E CarPlayCommClient: sendHardKey:keyType8
+02-28 01:45:36.354  2539  2539 I CarPlayCommService: sendHardKey is called.
+02-28 01:45:36.354  2539  2539 I CarPlayCommProtocal_CPP: CarPlayCommProtocal::sendHardKey is called.
+02-28 01:45:37.800  2677  2922 I WindowManager: interceptKeyBeforeDispatching: report hardkey event keyCode 5down true
+02-28 01:45:37.801  2677  2788 D WindowManager: reportHardKeyEvent:  keycode=5 down=true longpress=false
+02-28 01:45:37.801  3285  3285 D CarPlayReceiver: onReceive: com.saic.keyevent.hardkey.report
+02-28 01:45:37.802  3285  3285 D CarPlayReceiver: onReceive: intent.toString    Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:45:37.802  3094  3094 D Input.HardKeyReceiver: down:true,longPress:false,keyCode:5
+02-28 01:45:37.802  3492  3492 D CarHardkeyManager: hardkey keycode:5
+02-28 01:45:37.802  3492  3492 D CarHardkeyManager: press_down
+02-28 01:45:37.802  3492  3492 D CarHardkeyManager: isPress:true
+02-28 01:45:37.802  3492  3492 D CarHardkeyManager: isLongPress:false
+02-28 01:45:37.802  3831  3831 D MEDIA.HardKeyBusiness: onHardKey:Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:45:37.802  3831  3831 D MEDIA.HardKeyBusiness: keyCode:5 keyDown:true longPress:false
+02-28 01:45:37.802  3492  3492 E CarPlayCommClient: sendHardKey:keyType6
+02-28 01:45:37.803  2539  2539 I CarPlayCommService: sendHardKey is called.
+02-28 01:45:37.803  2539  2539 I CarPlayCommProtocal_CPP: CarPlayCommProtocal::sendHardKey is called.
+02-28 01:45:37.803  3492  3492 D CarHardkeyManager: mediaValue:-1
+02-28 01:45:38.006  2677  2922 I WindowManager: interceptKeyBeforeDispatching: report hardkey event keyCode 5down false
+02-28 01:45:38.006  2677  2788 D WindowManager: reportHardKeyEvent:  keycode=5 down=false longpress=false
+02-28 01:45:38.007  3285  3285 D CarPlayReceiver: onReceive: com.saic.keyevent.hardkey.report
+02-28 01:45:38.007  3285  3285 D CarPlayReceiver: onReceive: intent.toString    Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:45:38.007  3492  3492 D CarHardkeyManager: hardkey keycode:5
+02-28 01:45:38.007  3492  3492 D CarHardkeyManager: shortPress_up
+02-28 01:45:38.007  3492  3492 D CarHardkeyManager: isPress: false
+02-28 01:45:38.007  3492  3492 D CarHardkeyManager: isLongPress:false
+02-28 01:45:38.007  3094  3094 D Input.HardKeyReceiver: down:false,longPress:false,keyCode:5
+02-28 01:45:38.008  3831  3831 D MEDIA.HardKeyBusiness: onHardKey:Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:45:38.008  3831  3831 D MEDIA.HardKeyBusiness: keyCode:5 keyDown:false longPress:false
+02-28 01:45:38.008  3492  3492 E CarPlayCommClient: sendHardKey:keyType6
+02-28 01:45:38.009  2539  2539 I CarPlayCommService: sendHardKey is called.
+02-28 01:45:38.009  2539  2539 I CarPlayCommProtocal_CPP: CarPlayCommProtocal::sendHardKey is called.
+02-28 01:45:38.010  3492  3492 D CarHardkeyManager: mediaValue:-1
+02-28 01:46:03.435  2677  2922 I WindowManager: interceptKeyBeforeDispatching: report hardkey event keyCode 25down true
+02-28 01:46:03.435  2677  2788 D WindowManager: reportHardKeyEvent:  keycode=25 down=true longpress=false
+02-28 01:46:03.437  3492  3492 D CarHardkeyManager: hardkey keycode:25
+02-28 01:46:03.437  3492  3492 D CarHardkeyManager: press_down
+02-28 01:46:03.437  3285  3285 D CarPlayReceiver: onReceive: com.saic.keyevent.hardkey.report
+02-28 01:46:03.437  3492  3492 D CarHardkeyManager: isPress:true
+02-28 01:46:03.437  3492  3492 D CarHardkeyManager: isLongPress:false
+02-28 01:46:03.437  3492  3492 D CarHardkeyManager: mediaValue:-1
+02-28 01:46:03.437  3285  3285 D CarPlayReceiver: onReceive: intent.toString    Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:46:03.438  5363  5363 D Input.HardKeyReceiver: no filter key
+02-28 01:46:03.438  3094  3094 D Input.HardKeyReceiver: down:true,longPress:false,keyCode:25
+02-28 01:46:03.438  3831  3831 D MEDIA.HardKeyBusiness: onHardKey:Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:46:03.438  3831  3831 D MEDIA.HardKeyBusiness: keyCode:25 keyDown:true longPress:false
+02-28 01:46:03.439  2677  2922 I WindowManager: interceptKeyBeforeDispatching: report hardkey event keyCode 25down false
+02-28 01:46:03.440  2677  2788 D WindowManager: reportHardKeyEvent:  keycode=25 down=false longpress=false
+02-28 01:46:03.442  3285  3285 D CarPlayReceiver: onReceive: com.saic.keyevent.hardkey.report
+02-28 01:46:03.442  3285  3285 D CarPlayReceiver: onReceive: intent.toString    Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:46:03.442  3831  3831 D MEDIA.HardKeyBusiness: onHardKey:Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:46:03.442  5363  5363 D Input.HardKeyReceiver: no filter key
+02-28 01:46:03.442  3831  3831 D MEDIA.HardKeyBusiness: keyCode:25 keyDown:false longPress:false
+02-28 01:46:03.443  3492  3492 D CarHardkeyManager: hardkey keycode:25
+02-28 01:46:03.443  3492  3492 D CarHardkeyManager: shortPress_up
+02-28 01:46:03.443  3492  3492 D CarHardkeyManager: isPress: false
+02-28 01:46:03.443  3492  3492 D CarHardkeyManager: isLongPress:false
+02-28 01:46:03.443  3492  3492 D CarHardkeyManager: mediaValue:-1
+02-28 01:46:03.443  3094  3094 D Input.HardKeyReceiver: down:false,longPress:false,keyCode:25
+02-28 01:46:03.443  3094  3094 W SYSUI.HardKeyHandler: ignore key code : 25
+02-28 01:46:03.719  2677  2922 I WindowManager: interceptKeyBeforeDispatching: report hardkey event keyCode 25down true
+02-28 01:46:03.719  2677  2788 D WindowManager: reportHardKeyEvent:  keycode=25 down=true longpress=false
+02-28 01:46:03.720  2677  2922 I WindowManager: interceptKeyBeforeDispatching: report hardkey event keyCode 25down false
+02-28 01:46:03.720  2677  2788 D WindowManager: reportHardKeyEvent:  keycode=25 down=false longpress=false
+02-28 01:46:03.721  3492  3492 D CarHardkeyManager: hardkey keycode:25
+02-28 01:46:03.721  3492  3492 D CarHardkeyManager: press_down
+02-28 01:46:03.721  3492  3492 D CarHardkeyManager: isPress:true
+02-28 01:46:03.721  3492  3492 D CarHardkeyManager: isLongPress:false
+02-28 01:46:03.721  3492  3492 D CarHardkeyManager: mediaValue:-1
+02-28 01:46:03.721  5363  5363 D Input.HardKeyReceiver: no filter key
+02-28 01:46:03.721  3492  3492 D CarHardkeyManager: hardkey keycode:25
+02-28 01:46:03.721  3492  3492 D CarHardkeyManager: shortPress_up
+02-28 01:46:03.721  3492  3492 D CarHardkeyManager: isPress: false
+02-28 01:46:03.721  3492  3492 D CarHardkeyManager: isLongPress:false
+02-28 01:46:03.721  3492  3492 D CarHardkeyManager: mediaValue:-1
+02-28 01:46:03.722  5363  5363 D Input.HardKeyReceiver: no filter key
+02-28 01:46:03.722  3285  3285 D CarPlayReceiver: onReceive: com.saic.keyevent.hardkey.report
+02-28 01:46:03.722  3285  3285 D CarPlayReceiver: onReceive: intent.toString    Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:46:03.722  3831  3831 D MEDIA.HardKeyBusiness: onHardKey:Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:46:03.722  3831  3831 D MEDIA.HardKeyBusiness: keyCode:25 keyDown:true longPress:false
+02-28 01:46:03.723  3285  3285 D CarPlayReceiver: onReceive: com.saic.keyevent.hardkey.report
+02-28 01:46:03.723  3285  3285 D CarPlayReceiver: onReceive: intent.toString    Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:46:03.723  3831  3831 D MEDIA.HardKeyBusiness: onHardKey:Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:46:03.723  3831  3831 D MEDIA.HardKeyBusiness: keyCode:25 keyDown:false longPress:false
+02-28 01:46:03.724  3094  3094 D Input.HardKeyReceiver: down:true,longPress:false,keyCode:25
+02-28 01:46:03.725  3094  3094 D Input.HardKeyReceiver: down:false,longPress:false,keyCode:25
+02-28 01:46:03.725  3094  3094 W SYSUI.HardKeyHandler: ignore key code : 25
+02-28 01:46:03.974  2677  2922 I WindowManager: interceptKeyBeforeDispatching: report hardkey event keyCode 25down true
+02-28 01:46:03.974  2677  2788 D WindowManager: reportHardKeyEvent:  keycode=25 down=true longpress=false
+02-28 01:46:03.976  3492  3492 D CarHardkeyManager: hardkey keycode:25
+02-28 01:46:03.976  3492  3492 D CarHardkeyManager: press_down
+02-28 01:46:03.976  3492  3492 D CarHardkeyManager: isPress:true
+02-28 01:46:03.976  3492  3492 D CarHardkeyManager: isLongPress:false
+02-28 01:46:03.976  3492  3492 D CarHardkeyManager: mediaValue:-1
+02-28 01:46:03.976  3285  3285 D CarPlayReceiver: onReceive: com.saic.keyevent.hardkey.report
+02-28 01:46:03.976  3285  3285 D CarPlayReceiver: onReceive: intent.toString    Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:46:03.976  3831  3831 D MEDIA.HardKeyBusiness: onHardKey:Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:46:03.977  3831  3831 D MEDIA.HardKeyBusiness: keyCode:25 keyDown:true longPress:false
+02-28 01:46:03.978  2677  2922 I WindowManager: interceptKeyBeforeDispatching: report hardkey event keyCode 25down false
+02-28 01:46:03.978  2677  2788 D WindowManager: reportHardKeyEvent:  keycode=25 down=false longpress=false
+02-28 01:46:03.979  5363  5363 D Input.HardKeyReceiver: no filter key
+02-28 01:46:03.980  3285  3285 D CarPlayReceiver: onReceive: com.saic.keyevent.hardkey.report
+02-28 01:46:03.980  3285  3285 D CarPlayReceiver: onReceive: intent.toString    Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:46:03.980  3492  3492 D CarHardkeyManager: hardkey keycode:25
+02-28 01:46:03.980  3492  3492 D CarHardkeyManager: shortPress_up
+02-28 01:46:03.980  3492  3492 D CarHardkeyManager: isPress: false
+02-28 01:46:03.980  5363  5363 D Input.HardKeyReceiver: no filter key
+02-28 01:46:03.980  3492  3492 D CarHardkeyManager: isLongPress:false
+02-28 01:46:03.980  3492  3492 D CarHardkeyManager: mediaValue:-1
+02-28 01:46:03.980  3831  3831 D MEDIA.HardKeyBusiness: onHardKey:Intent { act=com.saic.keyevent.hardkey.report flg=0x10 (has extras) }
+02-28 01:46:03.980  3831  3831 D MEDIA.HardKeyBusiness: keyCode:25 keyDown:false longPress:false
+02-28 01:46:03.981  3094  3094 D Input.HardKeyReceiver: down:true,longPress:false,keyCode:25
+02-28 01:46:03.981  3094  3094 D Input.HardKeyReceiver: down:false,longPress:false,keyCode:25
+02-28 01:46:03.981  3094  3094 W SYSUI.HardKeyHandler: ignore key code : 25
+02-28 01:46:04.177  2677  2922 I WindowManager: interceptKeyBeforeDispatching: report hardkey event keyCode 25down true
+02-28 01:46:04.177  2677  2788 D WindowManager: reportHardKeyEvent:  keycode=25 down=true longpress=false
+02-28 01:46:04.179  3285  3285 D CarPlayReceiver: onReceive: {% codeblock title
+
+
+lang:language URL link_text %}
+code_snippet
+{% endcodeblock interceptKeyBeforeDispatching
+
+
+service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21401036, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402000, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402001, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402002, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402005, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402006, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402007, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402008, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402009, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140200A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140200B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140200C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140200D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140200E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140200F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402010, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402011, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402012, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402013, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402014, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402015, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402016, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402017, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402018, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402019, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140201A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140201B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140201C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140201D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140201E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140201F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402020, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402021, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402022, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402024, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402025, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402026, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402027, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402028, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402029, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140202C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402031, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402032, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402033, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402034, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402035, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402036, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402037, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402038, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402039, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140203A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140203B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140203C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140203D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140203E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140203F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402040, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402041, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402042, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402044, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402046, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402047, service: com.android.car.hal.PowerHalService@7e4ddd8
+Prop: 0x21402048, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403001, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403002, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403003, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403004, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403005, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403006, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403007, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403008, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403009, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140300A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140300B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140300C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140300D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140300E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140300F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403010, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403011, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403012, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403013, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403014, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403015, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403016, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403017, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403018, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403019, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140301A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140301B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140301C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140301D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140301F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403020, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403021, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403022, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403023, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403024, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403025, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403026, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403027, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403028, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403029, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140302A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140302B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140302C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140302E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140302F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403030, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403031, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403032, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403033, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403035, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403036, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403037, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403038, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403039, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140303A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140303B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140303C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140303D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140303E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140303F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403040, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403041, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403042, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403043, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403044, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403045, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403046, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403047, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403048, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403049, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403050, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403051, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403052, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403053, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403054, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403055, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403056, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140306D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21601037, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21601038, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21602003, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21602004, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21602023, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2160202B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2160202D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2160202E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2160202F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21602030, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21602043, service: com.android.car.hal.PowerHalService@7e4ddd8
+Prop: 0x2160301E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21701001, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170202A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21702045, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21703000, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170302D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705001, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705002, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705003, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705004, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705005, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705006, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705007, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705008, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705009, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170500A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170500B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170500C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170500D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170500E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170500F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705010, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705011, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705012, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705013, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705014, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705015, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705016, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705017, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705018, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705019, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170501A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170501B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170501C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170501D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170501E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170501F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705020, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705021, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705022, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705023, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705024, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705025, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705026, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705027, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705028, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705029, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170502A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170502B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170502C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170502D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170502E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170502F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705030, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705031, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705032, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705033, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705034, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705035, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705036, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705037, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705038, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705039, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170503A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170503B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170503C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170503D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170503E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170503F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705040, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705041, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705042, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705043, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705044, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705045, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705046, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705047, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705048, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705049, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170504A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170504B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170504C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170504D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170504E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170504F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705050, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705051, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705052, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705053, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705054, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705055, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705056, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705057, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705058, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705059, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170505A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170505B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170505C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170505D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170505E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170505F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705060, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705061, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705062, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705063, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705064, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705065, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705066, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705067, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705068, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705069, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170506A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170506B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170506C, service: com.android.car.hal.PropertyHalService@aab6b91
+
+
+ervice@aab6b91
+Prop: 0x21402035, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402036, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402037, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402038, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402039, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140203A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140203B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140203C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140203D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140203E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140203F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402040, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402041, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402042, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402044, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402046, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21402047, service: com.android.car.hal.PowerHalService@7e4ddd8
+Prop: 0x21402048, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403001, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403002, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403003, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403004, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403005, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403006, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403007, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403008, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403009, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140300A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140300B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140300C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140300D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140300E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140300F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403010, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403011, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403012, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403013, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403014, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403015, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403016, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403017, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403018, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403019, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140301A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140301B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140301C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140301D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140301F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403020, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403021, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403022, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403023, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403024, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403025, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403026, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403027, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403028, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403029, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140302A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140302B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140302C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140302E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140302F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403030, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403031, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403032, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403033, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403035, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403036, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403037, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403038, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403039, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140303A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140303B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140303C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140303D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140303E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140303F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403040, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403041, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403042, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403043, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403044, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403045, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403046, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403047, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403048, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403049, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403050, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403051, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403052, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403053, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403054, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403055, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21403056, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2140306D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21601037, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21601038, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21602003, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21602004, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21602023, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2160202B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2160202D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2160202E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2160202F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21602030, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21602043, service: com.android.car.hal.PowerHalService@7e4ddd8
+Prop: 0x2160301E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21701001, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170202A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21702045, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21703000, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170302D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705001, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705002, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705003, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705004, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705005, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705006, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705007, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705008, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705009, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170500A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170500B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170500C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170500D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170500E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170500F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705010, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705011, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705012, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705013, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705014, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705015, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705016, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705017, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705018, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705019, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170501A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170501B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170501C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170501D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170501E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170501F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705020, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705021, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705022, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705023, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705024, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705025, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705026, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705027, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705028, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705029, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170502A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170502B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170502C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170502D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170502E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170502F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705030, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705031, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705032, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705033, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705034, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705035, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705036, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705037, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705038, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705039, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170503A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170503B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170503C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170503D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170503E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170503F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705040, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705041, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705042, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705043, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705044, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705045, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705046, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705047, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705048, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705049, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170504A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170504B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170504C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170504D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170504E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170504F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705050, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705051, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705052, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705053, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705054, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705055, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705056, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705057, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705058, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705059, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170505A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170505B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170505C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170505D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170505E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170505F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705060, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705061, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705062, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705063, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705064, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705065, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705066, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705067, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705068, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705069, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170506A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170506B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170506C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170506D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170506E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170506F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705070, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705071, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705072, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705073, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705074, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705075, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705076, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705077, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705078, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705079, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170507A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170507B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170507C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170507D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170507E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170507F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705080, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705081, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705082, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705083, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705084, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705085, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705086, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705087, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705088, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705089, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170508A, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170508B, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170508C, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170508D, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170508E, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170508F, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705090, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x217051FF, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705200, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705201, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21705202, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21706200, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21706202, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21706203, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21706204, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x21706205, service: com.android.car.hal.PropertyHalService@aab6b91
+Prop: 0x2170620D, service: com.android.c
+
+perty name:0x21705001,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21403031,Property name:0x21403031,access:0x2,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21701001,Property name:0x21701001,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x11707001,Property name:0x11707001,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170c001,Property name:0x2170c001,access:0x2,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21401031,Property name:0x21401031,access:0x2,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21705002,Property name:0x21705002,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21401032,Property name:0x21401032,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21403032,Property name:0x21403032,access:0x2,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170c002,Property name:0x2170c002,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21402032,Property name:0x21402032,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21705003,Property name:0x21705003,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170c003,Property name:0x2170c003,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21401033,Property name:0x21401033,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21402033,Property name:0x21402033,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21403033,Property name:0x21403033,access:0x2,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21402034,Property name:0x21402034,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21401034,Property name:0x21401034,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21705004,Property name:0x21705004,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170c004,Property name:0x2170c004,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21402035,Property name:0x21402035,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21403035,Property name:0x21403035,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21401035,Property name:0x21401035,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21705005,Property name:0x21705005,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170c005,Property name:0x2170c005,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170c006,Property name:0x2170c006,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21705006,Property name:0x21705006,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21402036,Property name:0x21402036,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21403036,Property name:0x21403036,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21401036,Property name:0x21401036,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21403037,Property name:0x21403037,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21705007,Property name:0x21705007,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170c007,Property name:0x2170c007,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21402037,Property name:0x21402037,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170c008,Property name:0x2170c008,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21705008,Property name:0x21705008,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21402038,Property name:0x21402038,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21403038,Property name:0x21403038,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21402039,Property name:0x21402039,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170c009,Property name:0x2170c009,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21705009,Property name:0x21705009,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21403039,Property name:0x21403039,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2140303a,Property name:0x2140303a,access:0x2,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2140203a,Property name:0x2140203a,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170c00a,Property name:0x2170c00a,access:0x2,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170500a,Property name:0x2170500a,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2140203b,Property name:0x2140203b,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2140303b,Property name:0x2140303b,access:0x2,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170500b,Property name:0x2170500b,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170c00b,Property name:0x2170c00b,access:0x2,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170c00c,Property name:0x2170c00c,access:0x2,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2140303c,Property name:0x2140303c,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170500c,Property name:0x2170500c,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2140203c,Property name:0x2140203c,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2140203d,Property name:0x2140203d,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170500d,Property name:0x2170500d,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2140303d,Property name:0x2140303d,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170500e,Property name:0x2170500e,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2140203e,Property name:0x2140203e,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2140303e,Property name:0x2140303e,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2160301e,Property name:0x2160301e,access:0x2,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2140203f,Property name:0x2140203f,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2140303f,Property name:0x2140303f,access:0x2,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170500f,Property name:0x2170500f,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x11e00c00,Property name:VEHICLE_MAP_SERVICE,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21705090,Property name:0x21705090,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21705080,Property name:0x21705080,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21705081,Property name:0x21705081,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21705082,Property name:0x21705082,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21705083,Property name:0x21705083,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21705084,Property name:0x21705084,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21705085,Property name:0x21705085,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21705086,Property name:0x21705086,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21705087,Property name:0x21705087,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21705088,Property name:0x21705088,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21705089,Property name:0x21705089,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170508a,Property name:0x2170508a,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170508b,Property name:0x2170508b,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170508c,Property name:0x2170508c,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170508d,Property name:0x2170508d,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170508e,Property name:0x2170508e,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170508f,Property name:0x2170508f,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x13200504,Property name:HVAC_DEFROSTER,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :1,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0,areaId :2,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11200308,Property name:FUEL_DOOR_OPEN,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x1120030a,Property name:EV_CHARGE_PORT_OPEN,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x1120030b,Property name:EV_CHARGE_PORT_CONNECTED,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x23400103,Property name:0x23400103,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :1,f min:0.0,f max:0.0,i min:-100,i max:100,i64 min:0,i64 max:0,areaId :2,f min:0.0,f max:0.0,i min:-100,i max:100,i64 min:0,i64 max:0,areaId :10000,f min:0.0,f max:0.0,i min:-100,i max:100,i64 min:0,i64 max:0
+Property:0x11400303,Property name:ENGINE_OIL_LEVEL,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x11510306,Property name:WHEEL_TICK,access:0x1,changeMode:0x2,config:0x[15, 50000, 50000, 50000, 50000],fs min:1.0,fs max:10.0
+Property:0x11600703,Property name:ENV_OUTSIDE_TEMPERATURE,access:0x1,changeMode:0x2,config:0x[],fs min:1.0,fs max:2.0
+Property:0x11600304,Property name:ENGINE_OIL_TEMP,access:0x1,changeMode:0x2,config:0x[],fs min:0.1,fs max:10.0
+Property:0x11600305,Property name:ENGINE_RPM,access:0x1,changeMode:0x2,config:0x[],fs min:1.0,fs max:10.0
+Property:0x11600307,Property name:FUEL_LEVEL,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11600308,Property name:RANGE_REMAINING,access:0x1,changeMode:0x2,config:0x[],fs min:1.0,fs max:2.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11600309,Property name:EV_BATTERY_LEVEL,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x1160030c,Property name:EV_BATTERY_INSTANTANEOUS_CHARGE_RATE,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x21106201,Property name:0x21106201,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21106206,Property name:0x21106206,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21106207,Property name:0x21106207,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21106208,Property name:0x21106208,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21106209,Property name:0x21106209,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2110620a,Property name:0x2110620a,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2110620b,Property name:0x2110620b,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2110620c,Property name:0x2110620c,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x26200101,Property name:0x26200101,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :1,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0,areaId :4,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0,areaId :10,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0,areaId :40,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400e00,Property name:HEADLIGHTS_STATE,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11410a01,Property name:AP_POWER_STATE_REPORT,access:0x2,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x11400e01,Property name:HIGH_BEAM_LIGHTS_STATE,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11410a00,Property name:AP_POWER_STATE_REQ,access:0x1,changeMode:0x1,config:0x[3],fs min:0.0,fs max:0.0
+Property:0x11400e02,Property name:FOG_LIGHTS_STATE,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400a03,Property name:DISPLAY_BRIGHTNESS,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:100,i64 min:0,i64 max:0
+Property:0x11400e03,Property name:HAZARD_LIGHTS_STATE,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400605,Property name:VEHICLE_SPEED_DISPLAY_UNITS,access:0x3,changeMode:0x1,config:0x[1, 144, 145],fs min:0.0,fs max:0.0
+Property:0x11400e10,Property name:HEADLIGHTS_SWITCH,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11410a10,Property name:HW_KEY_INPUT,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x11400e11,Property name:HIGH_BEAM_LIGHTS_SWITCH,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400e12,Property name:FOG_LIGHTS_SWITCH,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400e13,Property name:HAZARD_LIGHTS_SWITCH,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11600204,Property name:PERF_ODOMETER,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x11600207,Property name:PERF_VEHICLE_SPEED,access:0x1,changeMode:0x1,config:0x[],fs min:1.0,fs max:10.0
+Property:0x21705200,Property name:0x21705200,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21706200,Property name:0x21706200,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21705201,Property name:0x21705201,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21705202,Property name:0x21705202,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21706202,Property name:0x21706202,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21706203,Property name:0x21706203,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21706204,Property name:0x21706204,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21706205,Property name:0x21706205,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170620d,Property name:0x2170620d,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170620e,Property name:0x2170620e,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x2170620f,Property name:0x2170620f,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x21e00666,Property name:0x21e00666,access:0x2,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+event count:30, lastEvent:Property:0x21402000,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [0],int64Values: [],bytes: [],string: 
+event count:4, lastEvent:Property:0x21403041,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [0],int64Values: [],bytes: [],string: 
+event count:12, lastEvent:Property:0x11407002,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [0],int64Values: [],bytes: [],string: 
+event count:29, lastEvent:Property:0x21401002,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [0],int64Values: [],bytes: [],string: 
+event count:8, lastEvent:Property:0x21403042,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [2],int64Values: [],bytes: [],string: 
+event count:2001, lastEvent:Property:0x21602023,status: 0,timestamp:0,zone:0x1000000,floatValues: [0.0],int32Values: [],int64Values: [],bytes: [],string: 
+event count:24, lastEvent:Property:0x21401003,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [0],int64Values: [],bytes: [],string: 
+event count:4, lastEvent:Property:0x21401004,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [1],int64Values: [],bytes: [],string: 
+event count:55, lastEvent:Property:0x21401005,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [0],int64Values: [],bytes: [],string: 
+event count:33, lastEvent:Property:0x21402006,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [1],int64Values: [],bytes: [],string: 
+event count:21, lastEvent:Property:0x21401006,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [2],int64Values: [],bytes: [],string: 
+event count:12, lastEvent:Property:0x21401007,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [0],int64Values: [],bytes: [],string: 
+event count:20, lastEvent:Property:0x21401008,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [29],int64Values: [],bytes: [],string: 
+event count:22, lastEvent:Property:0x21402048,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [0],int64Values: [],bytes: [],string: 
+event count:20, lastEvent:Property:0x21401009,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [29],int64Values: [],bytes: [],string: 
+event count:29, lastEvent:Property:0x2140100a,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [1],int64Values: [],bytes: [],string: 
+event count:14, lastEvent:Property:0x2140300b,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [1],int64Values: [],bytes: [],string: 
+event count:14, lastEvent:Property:0x2140300c,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [19],int64Values: [],bytes: [],string: 
+event count:6, lastEvent:Property:0x2140100d,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [0],int64Values: [],bytes: [],string: 
+event count:14, lastEvent:Property:0x2140300e,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [1],int64Values: [],bytes: [],string: 
+event count:21, lastEvent:Property:0x2140300f,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [2],int64Values: [],bytes: [],string: 
+event count:110, lastEvent:Property:0x11410a10,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [0, 25, 0],int64Values: [],bytes: [],string: 
+event count:14, lastEvent:Property:0x21403011,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [1],int64Values: [],bytes: [],string: 
+event count:2, lastEvent:Property:0x21402011,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [0],int64Values: [],bytes: [],string: 
+event count:2, lastEvent:Property:0x21403013,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [0],int64Values: [],bytes: [],string: 
+event count:14, lastEvent:Property:0x21403055,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [2],int64Values: [],bytes: [],string: 
+event count:14, lastEvent:Property:0x21403015,status: 0,timestamp:0,zone:0x1000000,floatValues: [],int32Values: [1],int64Values
+
+
+chery_t19c:/ $ dumpsys car_service | grep -Ei "speed|gear|ign|light|brake"
+
+Supported gears:
+Speed Range: None
+Speed Range: None
+Speed Range: None
+Speed Range: 0.0 - 5.0
+Speed Range: 5.0 - Infinity
+AppBlockingPackageInfoWrapper [info=AppBlockingPackageInfo [packageName=com.android.car, flags=1, minRevisionCode=0, maxRevisionCode=0, signatures=[android.content.pm.Signature@b4addb29], activities=[com.android.car.pm.ActivityBlockingActivity]], isMatching=true]
+AppBlockingPackageInfoWrapper [info=AppBlockingPackageInfo [packageName=com.google.android.apps.maps, flags=0, minRevisionCode=0, maxRevisionCode=0, signatures=[android.content.pm.Signature@e3ca78d8], activities=[com.google.android.libraries.surveys.internal.view.SurveyActivity]], isMatching=true]
+AppBlockingPackageInfoWrapper [info=AppBlockingPackageInfo [packageName=com.android.permissioncontroller, flags=1, minRevisionCode=0, maxRevisionCode=0, signatures=[android.content.pm.Signature@b4addb29], activities=[com.android.packageinstaller.permission.ui.GrantPermissionsActivity]], isMatching=true]
+AppBlockingPackageInfoWrapper [info=AppBlockingPackageInfo [packageName=com.android.systemui, flags=3, minRevisionCode=0, maxRevisionCode=0, signatures=[android.content.pm.Signature@b4addb29], activities=[com.android.systemui.MainActivity]], isMatching=true]
+AppBlockingPackageInfoWrapper [info=AppBlockingPackageInfo [packageName=android, flags=1, minRevisionCode=0, maxRevisionCode=0, signatures=[android.content.pm.Signature@b4addb29], activities=[com.android.internal.app.ResolverActivity]], isMatching=true]
+AppBlockingPackageInfoWrapper [info=AppBlockingPackageInfo [packageName=com.chery.dialer, flags=1, minRevisionCode=0, maxRevisionCode=0, signatures=[android.content.pm.Signature@b4addb29], activities=[com.chery.dialer.ui.activecall.InCallActivity, com.chery.dialer.ui.TelecomActivity]], isMatching=true]
+  "SpeedBump": {
+SpeedBumpConfig initialized: true
+SpeedBumpConfig: [acquired_permits_per_second: 0,500000, max_permit_pool: 5,000000, permit_fill_delay: 600]
+Property:0x15400500,Property name:HVAC_FAN_SPEED,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :75,f min:0.0,f max:0.0,i min:1,i max:7,i64 min:0,i64 max:0
+Property:0x11200402,Property name:PARKING_BRAKE_ON,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x11400400,Property name:GEAR_SELECTION,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x11400401,Property name:CURRENT_GEAR,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x11400409,Property name:IGNITION_STATE,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x11400e00,Property name:HEADLIGHTS_STATE,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400e01,Property name:HIGH_BEAM_LIGHTS_STATE,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400e02,Property name:FOG_LIGHTS_STATE,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400e03,Property name:HAZARD_LIGHTS_STATE,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400605,Property name:VEHICLE_SPEED_DISPLAY_UNITS,access:0x3,changeMode:0x1,config:0x[1, 144, 145],fs min:0.0,fs max:0.0
+Property:0x11400e10,Property name:HEADLIGHTS_SWITCH,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400e11,Property name:HIGH_BEAM_LIGHTS_SWITCH,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400e12,Property name:FOG_LIGHTS_SWITCH,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400e13,Property name:HAZARD_LIGHTS_SWITCH,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11600207,Property name:PERF_VEHICLE_SPEED,access:0x1,changeMode:0x1,config:0x[],fs min:1.0,fs max:10.0
+chery_t19c:/ $ dumpsys car_service | grep -Ei "speed|gear|ign|light|brake"
+
+Supported gears:
+Speed Range: None
+Speed Range: None
+Speed Range: None
+Speed Range: 0.0 - 5.0
+Speed Range: 5.0 - Infinity
+AppBlockingPackageInfoWrapper [info=AppBlockingPackageInfo [packageName=com.android.car, flags=1, minRevisionCode=0, maxRevisionCode=0, signatures=[android.content.pm.Signature@b4addb29], activities=[com.android.car.pm.ActivityBlockingActivity]], isMatching=true]
+AppBlockingPackageInfoWrapper [info=AppBlockingPackageInfo [packageName=com.google.android.apps.maps, flags=0, minRevisionCode=0, maxRevisionCode=0, signatures=[android.content.pm.Signature@e3ca78d8], activities=[com.google.android.libraries.surveys.internal.view.SurveyActivity]], isMatching=true]
+AppBlockingPackageInfoWrapper [info=AppBlockingPackageInfo [packageName=com.android.permissioncontroller, flags=1, minRevisionCode=0, maxRevisionCode=0, signatures=[android.content.pm.Signature@b4addb29], activities=[com.android.packageinstaller.permission.ui.GrantPermissionsActivity]], isMatching=true]
+AppBlockingPackageInfoWrapper [info=AppBlockingPackageInfo [packageName=com.android.systemui, flags=3, minRevisionCode=0, maxRevisionCode=0, signatures=[android.content.pm.Signature@b4addb29], activities=[com.android.systemui.MainActivity]], isMatching=true]
+AppBlockingPackageInfoWrapper [info=AppBlockingPackageInfo [packageName=android, flags=1, minRevisionCode=0, maxRevisionCode=0, signatures=[android.content.pm.Signature@b4addb29], activities=[com.android.internal.app.ResolverActivity]], isMatching=true]
+AppBlockingPackageInfoWrapper [info=AppBlockingPackageInfo [packageName=com.chery.dialer, flags=1, minRevisionCode=0, maxRevisionCode=0, signatures=[android.content.pm.Signature@b4addb29], activities=[com.chery.dialer.ui.activecall.InCallActivity, com.chery.dialer.ui.TelecomActivity]], isMatching=true]
+  "SpeedBump": {
+SpeedBumpConfig initialized: true
+SpeedBumpConfig: [acquired_permits_per_second: 0,500000, max_permit_pool: 5,000000, permit_fill_delay: 600]
+Property:0x15400500,Property name:HVAC_FAN_SPEED,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :75,f min:0.0,f max:0.0,i min:1,i max:7,i64 min:0,i64 max:0
+Property:0x11200402,Property name:PARKING_BRAKE_ON,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x11400400,Property name:GEAR_SELECTION,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x11400401,Property name:CURRENT_GEAR,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x11400409,Property name:IGNITION_STATE,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x11400e00,Property name:HEADLIGHTS_STATE,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400e01,Property name:HIGH_BEAM_LIGHTS_STATE,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400e02,Property name:FOG_LIGHTS_STATE,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400e03,Property name:HAZARD_LIGHTS_STATE,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400605,Property name:VEHICLE_SPEED_DISPLAY_UNITS,access:0x3,changeMode:0x1,config:0x[1, 144, 145],fs min:0.0,fs max:0.0
+Property:0x11400e10,Property name:HEADLIGHTS_SWITCH,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400e11,Property name:HIGH_BEAM_LIGHTS_SWITCH,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400e12,Property name:FOG_LIGHTS_SWITCH,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400e13,Property name:HAZARD_LIGHTS_SWITCH,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11600207,Property name:PERF_VEHICLE_SPEED,access:0x1,changeMode:0x1,config:0x[],fs min:1.0,fs max:10.0
+chery_t19c:/ $ dumpsys car_service | grep -Ei "speed|gear|ign|light|brake"
+
+Supported gears:
+Speed Range: None
+Speed Range: None
+Speed Range: None
+Speed Range: 0.0 - 5.0
+Speed Range: 5.0 - Infinity
+AppBlockingPackageInfoWrapper [info=AppBlockingPackageInfo [packageName=com.android.car, flags=1, minRevisionCode=0, maxRevisionCode=0, signatures=[android.content.pm.Signature@b4addb29], activities=[com.android.car.pm.ActivityBlockingActivity]], isMatching=true]
+AppBlockingPackageInfoWrapper [info=AppBlockingPackageInfo [packageName=com.google.android.apps.maps, flags=0, minRevisionCode=0, maxRevisionCode=0, signatures=[android.content.pm.Signature@e3ca78d8], activities=[com.google.android.libraries.surveys.internal.view.SurveyActivity]], isMatching=true]
+AppBlockingPackageInfoWrapper [info=AppBlockingPackageInfo [packageName=com.android.permissioncontroller, flags=1, minRevisionCode=0, maxRevisionCode=0, signatures=[android.content.pm.Signature@b4addb29], activities=[com.android.packageinstaller.permission.ui.GrantPermissionsActivity]], isMatching=true]
+AppBlockingPackageInfoWrapper [info=AppBlockingPackageInfo [packageName=com.android.systemui, flags=3, minRevisionCode=0, maxRevisionCode=0, signatures=[android.content.pm.Signature@b4addb29], activities=[com.android.systemui.MainActivity]], isMatching=true]
+AppBlockingPackageInfoWrapper [info=AppBlockingPackageInfo [packageName=android, flags=1, minRevisionCode=0, maxRevisionCode=0, signatures=[android.content.pm.Signature@b4addb29], activities=[com.android.internal.app.ResolverActivity]], isMatching=true]
+AppBlockingPackageInfoWrapper [info=AppBlockingPackageInfo [packageName=com.chery.dialer, flags=1, minRevisionCode=0, maxRevisionCode=0, signatures=[android.content.pm.Signature@b4addb29], activities=[com.chery.dialer.ui.activecall.InCallActivity, com.chery.dialer.ui.TelecomActivity]], isMatching=true]
+  "SpeedBump": {
+SpeedBumpConfig initialized: true
+SpeedBumpConfig: [acquired_permits_per_second: 0,500000, max_permit_pool: 5,000000, permit_fill_delay: 600]
+Property:0x15400500,Property name:HVAC_FAN_SPEED,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :75,f min:0.0,f max:0.0,i min:1,i max:7,i64 min:0,i64 max:0
+Property:0x11200402,Property name:PARKING_BRAKE_ON,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x11400400,Property name:GEAR_SELECTION,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x11400401,Property name:CURRENT_GEAR,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x11400409,Property name:IGNITION_STATE,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0
+Property:0x11400e00,Property name:HEADLIGHTS_STATE,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400e01,Property name:HIGH_BEAM_LIGHTS_STATE,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400e02,Property name:FOG_LIGHTS_STATE,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400e03,Property name:HAZARD_LIGHTS_STATE,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400605,Property name:VEHICLE_SPEED_DISPLAY_UNITS,access:0x3,changeMode:0x1,config:0x[1, 144, 145],fs min:0.0,fs max:0.0
+Property:0x11400e10,Property name:HEADLIGHTS_SWITCH,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400e11,Property name:HIGH_BEAM_LIGHTS_SWITCH,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400e12,Property name:FOG_LIGHTS_SWITCH,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400e13,Property name:HAZARD_LIGHTS_SWITCH,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11600207,Property name:PERF_VEHICLE_SPEED,access:0x1,changeMode:0x1,config:0x[],fs min:1.0,fs max:10.0
+chery_t19c:/ $ 
+
+chery_t19c:/ $ dumpsys car_service | grep -Ei "lamp|indicator|hazard"
+
+Property:0x11400e03,Property name:HAZARD_LIGHTS_STATE,access:0x1,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+Property:0x11400e13,Property name:HAZARD_LIGHTS_SWITCH,access:0x3,changeMode:0x1,config:0x[],fs min:0.0,fs max:0.0,areaId :0,f min:0.0,f max:0.0,i min:0,i max:0,i64 min:0,i64 max:0
+chery_t19c:/ $ 
